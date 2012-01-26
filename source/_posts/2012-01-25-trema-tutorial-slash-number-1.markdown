@@ -28,16 +28,16 @@ overall energy expenditure.
 の量を監視したり、コーヒーを自動的に淹れたりするための半分冗談のインター
 フェースを定義しています。 -->
 
-"Laziness" is one of the hackers' mentality that only excel
+"Laziness" is one of the hacker's mentality that only excel
 programmers possess. How he can get some junk food without leaving
-from his lovable computer even for a second --- that may look lazy to
-normal people, but that always been a really serious thing to
+from his lovable computer even for a second --- that may sounds lazy
+to a normal person, but its always been a really serious thing to
 hackers. For example, at MIT AI laboratory, the famous den of hackers,
-there existed a one-button-push Unix command called xpizza{% fn_ref 1 %}
-to order pizza by fax. In addition, the coffee pot protocol
-published as RFC 2325 defines a half-joking interface to remotely
-control coffee pot in order to specify the amount of coffee or brew
-coffee automatically.
+there was a one-button-push Unix command called xpizza{% fn_ref 1 %}
+to order pizza by fax. In addition, the coffee pot protocol published
+as RFC 2325 defines a half-joking interface to remotely control coffee
+pot in order to specify the amount of coffee or brew coffee
+automatically.
 
 
 <!-- こうした「ソフトウェアで楽をする」ハックのうち、もっとも大規模な例
