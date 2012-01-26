@@ -39,7 +39,14 @@ published as RFC 2325 defines a half-joking interface to remotely
 control coffee pot in order to specify the amount of coffee or brew
 coffee automatically.
 
-<!-- ここまで -->
+
+<!-- こうした「ソフトウェアで楽をする」ハックのうち、もっとも大規模な例
+が最新鋭の巨大データセンターです。クラウドサービスの裏で動く巨大データ
+センターは極めて少人数の管理者によって運用されており、大部分の管理はソ
+フトウェアによって極限まで自動化されているという記事を読んだことがある
+人も多いでしょう。ピザやコーヒーのようなお遊びから、巨大データセンター
+のように一筋縄ではいかない相手まで、プログラムで「モノ」を思いどおりに
+コントロールするのはもっとも楽しいハックの一種です。-->
 
 Such "software simplicity" was all done for hacker's sake. A much
 bigger example is the state-of-the-art computer center.  Majority of
