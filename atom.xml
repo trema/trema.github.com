@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Trema Blog]]></title>
   <link href="http://trema.github.com/atom.xml" rel="self"/>
   <link href="http://trema.github.com/"/>
-  <updated>2012-01-26T10:48:05+09:00</updated>
+  <updated>2012-01-26T10:55:31+09:00</updated>
   <id>http://trema.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Yasuhito Takamiya]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
