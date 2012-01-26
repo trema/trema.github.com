@@ -18,14 +18,28 @@ overall energy expenditure.
 
 # Preface
 
-Some excel programmers possess hacker's laziness characteristic.  For
-the hacker to leave his lovable computer to get some junk food always
-been a pain but to a normal person this sounds like laziness. As a
-result of this literally one button push Unix command to order pizza
-by fax (xpizza) has been created from a hacker's den of a famous MIT
-AI laboratory.  In addition RFC-2325 defines a management interface
-that enables remote users using a public coffee port to specify the
-amount of coffee and inspect the coffee brewing process.
+<!-- 優れたプログラマが持つハッカー気質のひとつに「無精」があります。大
+好きなコンピュータの前から一時も離れずにどうやってジャンクフードを手に
+入れるか̶̶̶普通の人からするとただの横着に見えるかもしれませんが、ハッカー
+達にとってそれはいつでも大きな問題でした。たとえば、ハッカーの巣窟とし
+て有名な MIT のAI ラボにはかつて、UNIX のコマンド一発でピザを FAX 注文
+する xpizza コマンドが存在しました (注1)。また、RFC 2325 として公開され
+ているコーヒーポットプロトコルでは、遠隔地にあるコーヒーポットのコーヒー
+の量を監視したり、コーヒーを自動的に淹れたりするための半分冗談のインター
+フェースを定義しています。 -->
+
+"Laziness" is one of the hackers' mentality that only excel
+programmers possess. How he can get some junk food without leaving
+from his lovable computer even for a second --- that may look lazy to
+normal people, but that always been a really serious thing to
+hackers. For example, at MIT AI laboratory, the famous den of hackers,
+there existed a one-button-push Unix command called xpizza{% fn_ref 1 %}
+to order pizza by fax. In addition, the coffee pot protocol
+published as RFC 2325 defines a half-joking interface to remotely
+control coffee pot in order to specify the amount of coffee or brew
+coffee automatically.
+
+<!-- ここまで -->
 
 Such "software simplicity" was all done for hacker's sake. A much
 bigger example is the state-of-the-art computer center.  Majority of
@@ -34,6 +48,11 @@ people would have read an article as such.  Shifting the focus from
 pizza or coffee play arena to a large data center is not for the
 faint-hearted but to control things by a program to one's discretion
 would please even the most jaded hacker.
+
+
+{% footnotes %}
+  {% fn You can find the man page of xpizza (http://bit.ly/mYAJwZ) written in 1991 by googling with "xpizza MIT" for a keyword %}
+{% endfootnotes%}
 
 
 ## Introduction to Openflow
